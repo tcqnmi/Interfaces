@@ -1,0 +1,16 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\bin\Debug\M2 ComboBox.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\bin\Debug\M2 ComboBox.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\bin\Debug\M2 ComboBox.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2_ComboBox.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\M2 ComboBox.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M2 ComboBox\M2 ComboBox\obj\Debug\GeneratedInternalTypeHelper.g.cs

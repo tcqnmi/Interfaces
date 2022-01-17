@@ -1,0 +1,16 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\bin\Debug\Ej3 Inmobiliaria.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\bin\Debug\Ej3 Inmobiliaria.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\bin\Debug\Ej3 Inmobiliaria.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3_Inmobiliaria.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\Ej3 Inmobiliaria.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Ej3 Inmobiliaria\Ej3 Inmobiliaria\obj\Debug\GeneratedInternalTypeHelper.g.cs

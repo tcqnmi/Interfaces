@@ -1,0 +1,15 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\bin\Debug\M3 Animaciones 2.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\bin\Debug\M3 Animaciones 2.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\bin\Debug\M3 Animaciones 2.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3_Animaciones_2.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Animaciones 2\M3 Animaciones 2\obj\Debug\M3 Animaciones 2.pdb
