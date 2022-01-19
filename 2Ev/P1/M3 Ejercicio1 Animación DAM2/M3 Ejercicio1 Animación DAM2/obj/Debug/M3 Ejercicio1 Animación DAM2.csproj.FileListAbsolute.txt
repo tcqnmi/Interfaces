@@ -1,0 +1,15 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\bin\Debug\M3 Ejercicio1 Animación DAM2.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\bin\Debug\M3 Ejercicio1 Animación DAM2.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\bin\Debug\M3 Ejercicio1 Animación DAM2.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3_Ejercicio1_Animación_DAM2.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio1 Animación DAM2\M3 Ejercicio1 Animación DAM2\obj\Debug\M3 Ejercicio1 Animación DAM2.pdb
