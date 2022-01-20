@@ -1,0 +1,15 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\bin\Debug\M3 Ejercicio 4 Rectangulos.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\bin\Debug\M3 Ejercicio 4 Rectangulos.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\bin\Debug\M3 Ejercicio 4 Rectangulos.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3_Ejercicio_4_Rectangulos.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 4 Rectangulos\M3 Ejercicio 4 Rectangulos\obj\Debug\M3 Ejercicio 4 Rectangulos.pdb

@@ -12,6 +12,7 @@
             <Setter Property="FontSize" Value="30"/>
             <Setter Property="FontWeight" Value="Bold"/>
             <Style.Triggers>
+                
                 <EventTrigger RoutedEvent="TextBlock.MouseEnter">
                     <BeginStoryboard >
                         <Storyboard >
@@ -24,6 +25,7 @@
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
+                
                 <EventTrigger RoutedEvent="TextBlock.MouseLeave">
                     <BeginStoryboard >
                         <Storyboard >

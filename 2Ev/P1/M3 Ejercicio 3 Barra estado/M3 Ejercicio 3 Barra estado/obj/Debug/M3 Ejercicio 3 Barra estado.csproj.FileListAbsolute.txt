@@ -1,0 +1,15 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\bin\Debug\M3 Ejercicio 3 Barra estado.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\bin\Debug\M3 Ejercicio 3 Barra estado.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\bin\Debug\M3 Ejercicio 3 Barra estado.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3_Ejercicio_3_Barra_estado.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 3 Barra estado\M3 Ejercicio 3 Barra estado\obj\Debug\M3 Ejercicio 3 Barra estado.pdb
