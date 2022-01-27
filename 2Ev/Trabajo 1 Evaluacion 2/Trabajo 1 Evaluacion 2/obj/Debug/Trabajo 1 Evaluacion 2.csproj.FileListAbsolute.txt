@@ -1,0 +1,41 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\Peliculas.mdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\Trabajo 1 Evaluacion 2.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\Trabajo 1 Evaluacion 2.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\Trabajo 1 Evaluacion 2.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2_Content.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo_1_Evaluacion_2.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\bin\Debug\stdole.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\VentaImpresion.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\VentaImpresion.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\Trabajo 1 Evaluacion 2\Trabajo 1 Evaluacion 2\obj\Debug\Trabajo 1 Evaluacion 2.csproj.CopyComplete

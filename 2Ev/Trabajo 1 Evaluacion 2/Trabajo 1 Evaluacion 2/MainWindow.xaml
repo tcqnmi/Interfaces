@@ -1,0 +1,118 @@
+﻿<Window x:Class="Trabajo_1_Evaluacion_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trabajo_1_Evaluacion_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowState="Maximized" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:PeliculasDataSet x:Key="peliculasDataSet"/>
+        <CollectionViewSource x:Key="peliculaViewSource" Source="{Binding Pelicula, Source={StaticResource peliculasDataSet}}"/>
+       
+        <Style x:Key="CeldaCentrada" TargetType="DataGridCell">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value="7"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Background" Value="LightCyan"/>
+            <Setter Property="Width" Value="90"/>
+        </Style>
+        <Style TargetType="TextBlock" >
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+        <Style x:Key="cabecera"
+            BasedOn="{StaticResource {x:Type TextBlock}}"
+            TargetType="{x:Type TextBlock}">
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+    </Window.Resources>
+    <DockPanel DataContext="{StaticResource peliculaViewSource}">
+        <TextBlock DockPanel.Dock="Top" 
+                   Text="Películas"
+                   Style="{StaticResource cabecera}"/>
+        <StackPanel 
+            DockPanel.Dock="Right">
+            <Button Content="Nuevo "/>
+            <Button Content="Modificar"/>
+            <Button Content="Eliminar"/>
+            <Button Content="Imprimir... "
+                    Click="Button_Click"/>
+            <Button Content="Importar"/>
+            <Button Content="Exportar"/>
+        </StackPanel>
+        <StackPanel 
+            DockPanel.Dock="Bottom" 
+            Orientation="Horizontal"
+            HorizontalAlignment="Right">
+            <TextBlock Text="Número de elementos: "/>
+            <TextBlock Text="{Binding Items.Count, ElementName=peliculaDataGrid, Mode=OneWay}"/>
+        </StackPanel>
+        <DataGrid x:Name="peliculaDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" RowDetailsVisibilityMode="VisibleWhenSelected" SelectionMode="Single" CanUserAddRows="False" IsReadOnly="True">
+            <DataGrid.RowBackground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FFD6FC94" Offset="1"/>
+                </LinearGradientBrush>
+            </DataGrid.RowBackground>
+            <DataGrid.AlternatingRowBackground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFDFFFF" Offset="0"/>
+                    <GradientStop Color="#FFA1FAF6" Offset="1"/>
+                </LinearGradientBrush>
+            </DataGrid.AlternatingRowBackground>
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="títuloColumn" 
+                                    Binding="{Binding Título}"
+                                    Header="Título" 
+                                    Width="3*"/>
+                <DataGridTextColumn x:Name="directorColumn" 
+                                    Binding="{Binding Director}" 
+                                    Header="Director" 
+                                    Width="2*"/>
+                <DataGridTextColumn x:Name="géneroColumn" 
+                                    Binding="{Binding Género}" 
+                                    Header="Género" 
+                                    Width="2*"/>
+                <DataGridTemplateColumn x:Name="estrenoColumn" 
+                                        Header="Estreno"
+                                        Width="2*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding Estreno, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="valoraciónColumn" 
+                                    Binding="{Binding Valoración}" 
+                                    Header="Valoración" 
+                                    Width="80"
+                                    CellStyle="{StaticResource CeldaCentrada }"/>
+                <DataGridTextColumn x:Name="precioColumn" 
+                    Binding="{Binding Precio}" 
+                    Header="Precio" 
+                    Width="60"
+                    CellStyle="{StaticResource CeldaCentrada }"/>
+                
+                <DataGridTextColumn x:Name="salaColumn" 
+                                    Binding="{Binding Sala}" 
+                                    Header="Sala" 
+                                    Width="60"
+                                    CellStyle="{StaticResource CeldaCentrada }"/>
+                <DataGridTextColumn x:Name="edadColumn" 
+                                    Binding="{Binding Edad}"
+                                    Header="Edad" 
+                                    Width="60"
+                                    CellStyle="{StaticResource CeldaCentrada }"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+
+    </DockPanel>
+</Window>

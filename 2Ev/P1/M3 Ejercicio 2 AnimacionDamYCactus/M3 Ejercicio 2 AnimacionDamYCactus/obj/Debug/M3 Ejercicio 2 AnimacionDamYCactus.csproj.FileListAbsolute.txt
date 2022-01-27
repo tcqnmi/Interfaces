@@ -1,0 +1,15 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\bin\Debug\M3 Ejercicio 2 AnimacionDamYCactus.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\bin\Debug\M3 Ejercicio 2 AnimacionDamYCactus.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\bin\Debug\M3 Ejercicio 2 AnimacionDamYCactus.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3_Ejercicio_2_AnimacionDamYCactus.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M3 Ejercicio 2 AnimacionDamYCactus\M3 Ejercicio 2 AnimacionDamYCactus\obj\Debug\M3 Ejercicio 2 AnimacionDamYCactus.pdb

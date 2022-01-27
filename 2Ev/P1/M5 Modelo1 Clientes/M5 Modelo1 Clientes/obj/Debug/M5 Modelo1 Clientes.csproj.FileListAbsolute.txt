@@ -1,0 +1,41 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\ClientesMDB.mdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\M5 Modelo1 Clientes.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\M5 Modelo1 Clientes.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\M5 Modelo1 Clientes.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes_Content.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5_Modelo1_Clientes.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\stdole.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\M5 Modelo1 Clientes.csproj.CopyComplete
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\ventanaImprimir.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M5 Modelo1 Clientes\M5 Modelo1 Clientes\obj\Debug\ventanaImprimir.baml
