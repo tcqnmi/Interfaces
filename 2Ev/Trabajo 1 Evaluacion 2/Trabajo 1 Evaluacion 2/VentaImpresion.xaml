@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Trabajo_1_Evaluacion_2"
         xmlns:Viewer="clr-namespace:SAPBusinessObjects.WPF.Viewer;assembly=SAPBusinessObjects.WPF.Viewer" x:Class="Trabajo_1_Evaluacion_2.VentaImpresion"
         mc:Ignorable="d"
-        Title="VentaImpresion" Height="450" Width="800"
+        Title="Ventana Impresion" Height="450" Width="800"
         Loaded="Window_Loaded"
         WindowState="Maximized">
     <Grid>

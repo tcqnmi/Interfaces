@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Trabajo_1_Evaluacion_2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" WindowState="Maximized" Loaded="Window_Loaded">
+        Title="Base de datos de películas" Height="450" Width="800" WindowState="Maximized" Loaded="Window_Loaded">
     <Window.Resources>
         <local:PeliculasDataSet x:Key="peliculasDataSet"/>
         <CollectionViewSource x:Key="peliculaViewSource" Source="{Binding Pelicula, Source={StaticResource peliculasDataSet}}"/>
