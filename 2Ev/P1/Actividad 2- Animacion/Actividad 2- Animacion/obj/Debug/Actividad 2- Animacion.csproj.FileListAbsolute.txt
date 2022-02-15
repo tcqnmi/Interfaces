@@ -1,0 +1,15 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\bin\Debug\Actividad 2- Animacion.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\bin\Debug\Actividad 2- Animacion.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\bin\Debug\Actividad 2- Animacion.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad_2__Animacion.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\Actividad 2- Animacion\Actividad 2- Animacion\obj\Debug\Actividad 2- Animacion.pdb

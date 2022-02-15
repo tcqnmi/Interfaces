@@ -1,0 +1,15 @@
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\bin\Debug\M4 Ejercicio1.exe.config
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\bin\Debug\M4 Ejercicio1.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\bin\Debug\M4 Ejercicio1.pdb
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1_MarkupCompile.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1_MarkupCompile.lref
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1.g.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4_Ejercicio1.Properties.Resources.resources
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1.csproj.GenerateResource.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1.exe
+C:\Users\tamar\Documents\DAM\Interfaces\2Ev\P1\M4 Ejercicio1\M4 Ejercicio1\obj\Debug\M4 Ejercicio1.pdb

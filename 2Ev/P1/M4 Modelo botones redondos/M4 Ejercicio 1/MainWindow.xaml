@@ -1,0 +1,66 @@
+﻿<Window x:Class="M4_Ejercicio_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:M4_Ejercicio_1"
+        mc:Ignorable="d"
+        Title="Modificacion de botones" Height="450" Width="600">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <!--Definición de la plantilla-->
+                        <Grid>
+                            <!--Forma del boton-->
+                            <Ellipse x:Name="formaBoton" 
+                                     Fill="{TemplateBinding Background}"
+                                     Stroke="Black"
+                                     StrokeThickness="2"/>
+                            <!-- Contenido del botón-->
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+
+                        </Grid>
+                        <!--Definimos como queremos que se comporten nuestras plantillas-->
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Fill" 
+                                        Value="AliceBlue"
+                                        TargetName="formaBoton"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Fill" 
+                                        Value="DodgerBlue"
+                                        TargetName="formaBoton"/>
+                            </Trigger>
+                            
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            
+        </Style>
+    </Window.Resources>
+    <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+        <TextBlock x:Name="mensaje" 
+                   Text="Pulsa un botón"
+                   TextAlignment="Center"
+                   FontSize="28"/>
+        
+        <StackPanel Orientation="Horizontal">
+
+            <Button Content="T1" Background="LightBlue" Click="Button_Click"/>
+            <Button Content="T2" Background="CadetBlue" Click="Button_Click"/>
+            <Button Content="T3" Background="CornflowerBlue" Click="Button_Click"/>
+
+        </StackPanel>
+    </StackPanel>
+        
+</Window>
